@@ -12,9 +12,16 @@ React,material-UI,Stripe,commerce.js
   <img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/AddressForm.jpeg" width="270" height="528">
   </p>
   <br>
-  <h3> Confirmation Page |  Confirmation mail to customer | Confirmation mail to owner </h3>
+  <h3> Payment Page | Confirmation Page </h3>
 <br>
- <p ><img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/confirmation.jpeg" width="270" height="528">
+ <p >
+    <img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/Payment.jpg" width="270" height="528">
+ <img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/confirmation.jpeg" width="270" height="528">
+  </p>
+  <br>
+   <h3> Confirmation mail to customer | Confirmation mail to owner </h3>
+<br>
+ <p >
      <img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/customer.jpeg" width="270" height="528">
   <img src="https://github.com/hks143/ShopWithSahu/blob/main/src/Screenshots/owner.jpeg" width="270" height="528">
   </p>
